@@ -1,6 +1,6 @@
 {
-    "name": "halumein/yii2-spending",
-    "description": "Spending module",
+    "name": "halumein/yii2-report",
+    "description": "Report module",
     "keywords": ["yii2", "yii2", "application", "nethammer"],
     "homepage": "https://github.com/halumein",
     "type": "yii2-extension",
@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "halumein\\spending\\": ""
+            "halumein\\report\\": ""
         }
     }
 }

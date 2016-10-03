@@ -19,7 +19,7 @@ php yii migrate --migrationPath=vendor/halumein/yii2-report/migrations
 
 ```php
     'modules' => [
-        'test' => [
+        'report' => [
             'class' => 'halumein\report\Module',
         ],
         //...
