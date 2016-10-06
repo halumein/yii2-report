@@ -1,7 +1,7 @@
 <?php
-
 namespace halumein\report\controllers;
 
+use Yii;
 use yii\web\Controller;
 use yii\filters\VerbFilter;
 
@@ -19,8 +19,7 @@ class DefaultController extends Controller
      */
     public function actionIndex()
     {
-	echo "indexAction";
-        die;
+	    echo "indexAction";
     }
 
 
